@@ -1,0 +1,36 @@
+https://www.gioa.us/files/webinars/GIOA-Asset-Backed-CP-Product-and-Market-Developments-RBC-Jan-2021.pdf
+
+https://www.guggenheiminvestments.com/uit/trust/fice080/related-trusts
+https://www.guggenheiminvestments.com/uit/trust/fice080
+https://www.guggenheiminvestments.com/uit/trust/fice083
+https://www.guggenheiminvestments.com/uit/prospectus/fice082
+
+Income & Treasury Limited Duration Portfolio of Funds Series 83
+
+
+
+
+CUSIPs
+Cash	40178G783
+Reinvest	40178G791
+Fee/Cash	40178G809
+Fee/Reinvest	40178G817
+ 
+Deposit Information
+Inception Date	3/11/2025
+Non-Reoffered Date	N/A
+Mandatory Maturity Date	N/A
+Ticker Symbol	CFICFX
+Trust Structure	Grantor
+Inception Unit Price	N/A
+Inception Liquidation Price	N/A
+Deferred Sales Charge Dates	N/A
+Term	15 Months
+Number of Holdings	N/A
+
+Daily Data
+as of --
+Offer Price 	N/A
+Wrap Fee Price 	N/A
+Liquidation Price 	N/A
+Remaining Deferred Sales Charge 	N/A
